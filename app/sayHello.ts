@@ -7,4 +7,4 @@ function singBirds(birdInfo: (x:string) => string[]): string {
 }
 
 console.log(singBirds(genBirdsInfo))
-console.log(singBirds('dobato'))
+// console.log(singBirds('dobato'))
